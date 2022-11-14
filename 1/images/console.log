@@ -1,0 +1,4 @@
+Message: Uncaught TypeError: Cannot read property '$' of undefined
+Source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js
+Line: 911
+-----------------------
